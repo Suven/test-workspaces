@@ -1,0 +1,8 @@
+{
+  "name": "foo-example",
+  "version": "1.0.0",
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "all": "bun run ./packages/all-foo/test.ts"
+  }
+}

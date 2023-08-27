@@ -1,0 +1,7 @@
+{
+    "name": "client-bar",
+    "main": "test.ts",
+    "dependencies": {
+      "common-server": "*"
+    }
+  }

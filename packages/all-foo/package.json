@@ -1,0 +1,6 @@
+{
+    "name": "all-foo",
+    "dependencies": {
+      "client-bar": "*"
+    }
+  }
